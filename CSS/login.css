@@ -46,7 +46,7 @@
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-radius: 20px;
   margin-bottom: 15px;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .social-login:hover {
@@ -54,7 +54,7 @@
   transition: all 0.4s linear;
 }
 
-.social-login span > i {
+.social-login a > i {
   margin-right: 5px;
 }
 
@@ -73,7 +73,6 @@
 
 .login__footer > ul {
   padding: 0;
-  list-style: none;
   display: flex;
 }
 
