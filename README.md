@@ -1,4 +1,3 @@
-# Twitter Clone
+# Twitter Clone with HTML, CSS and JavaScript
 
-login page
-main page
+Twitter Clone
