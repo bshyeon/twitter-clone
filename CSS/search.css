@@ -7,15 +7,13 @@
 }
 
 .search__header input {
-  background-color: #eff3f4;
+  background-color: var(--hover-color);
   height: 40px;
-  border: none;
   border-radius: 20px;
   padding-left: 30px;
 }
 
 .search__header input:focus {
-  outline: none;
   border: 1px solid var(--main-color);
   background-color: white;
   transition: all 0.4s ease;
@@ -25,7 +23,7 @@
   margin: 10px 0 0 25px;
   width: 330px;
   border-radius: 10px;
-  background-color: #f7f9f9;
+  background-color: var(--search-color);
 }
 
 .search__trends-title {
@@ -51,7 +49,7 @@
 .follow:hover,
 .add:hover {
   cursor: pointer;
-  background-color: #eff3f4;
+  background-color: var(--hover-color);
   transition: all 0.3s ease;
 }
 
@@ -80,10 +78,10 @@
 }
 
 .search__follow {
-  margin-left: 25px;
+  margin: 15px 0 0 25px;
   width: 330px;
   border-radius: 10px;
-  background-color: #f7f9f9;
+  background-color: var(--search-color);
 }
 
 .search__follow-title {
