@@ -10,14 +10,9 @@
 }
 
 .home__header {
-  position: fixed;
   font-size: 18px;
   font-weight: 600;
   padding: 15px;
-}
-
-.home__main {
-  padding-top: 54px;
 }
 
 .home__main img {
