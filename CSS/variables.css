@@ -1,4 +1,6 @@
 :root {
   --main-color: #1d9bf0;
+  --hover-color: #eff3f4;
+  --search-color: #f7f9f9;
   --main-border: 1px solid rgba(0, 0, 0, 0.2);
 }
